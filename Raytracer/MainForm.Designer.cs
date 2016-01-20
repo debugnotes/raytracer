@@ -47,7 +47,7 @@
             this.ClientSize = new System.Drawing.Size(549, 446);
             this.Controls.Add(this.pbOutput);
             this.Name = "MainForm";
-            this.Text = "Form1";
+            this.Text = "debugnotes raytracer";
             this.Load += new System.EventHandler(this.MainForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pbOutput)).EndInit();
             this.ResumeLayout(false);
